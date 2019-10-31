@@ -272,7 +272,7 @@ a:hover {
     color: #84c754;
 }
 </style>
-<style>/* Stylesheet 4: */
+<style>/* Stylesheet 44: */
 body {
     font: 100% Courier New;
     margin: 20px;
@@ -281,7 +281,7 @@ body {
 }
 
 .container {
-    xmin-width: 900px;
+    xmin-width: 800px;
 }
 
 .wrapper {
